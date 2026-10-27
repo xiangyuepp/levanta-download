@@ -1,0 +1,11 @@
+accounts.local.json
+*.local.json
+**/accounts.local.json
+**/*.local.json
+.levanta-cache/
+outputs/
+output/
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store

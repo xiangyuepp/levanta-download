@@ -1,0 +1,4 @@
+interface:
+  display_name: "Levanta 出单数据导出"
+  short_description: "填写多个品牌的 API 密钥，按日期和红人导出七列出单数据"
+  default_prompt: "使用 $levanta-sales-export 导出本月截至昨天的出单数据，先给我密钥配置文件。"

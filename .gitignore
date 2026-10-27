@@ -1,0 +1,9 @@
+levanta/
+outputs/
+output/
+.levanta-cache/
+*.local.json
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
